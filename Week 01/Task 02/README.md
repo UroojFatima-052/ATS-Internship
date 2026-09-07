@@ -35,7 +35,7 @@ Task2_Linear_Regression/
    ```
 3. Open a terminal in this folder and run:
    ```
-   jupyter notebook Task2_Linear_Regression.ipynb
+   jupyter notebook Linear Regression.ipynb
    ```
 4. Run all cells from top to bottom.
 5. Generated charts will also be saved automatically into the `screenshots/` folder.
