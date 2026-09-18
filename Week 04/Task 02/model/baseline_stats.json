@@ -1,0 +1,148 @@
+{
+  "created": "2026-09-18",
+  "training_rows": 5039,
+  "test_accuracy": 0.9536,
+  "profitable_rate": 0.4924,
+  "numeric": {
+    "Order Quantity": {
+      "mean": 25.6902,
+      "median": 26.0,
+      "std": 14.377,
+      "p05": 3.0,
+      "p95": 48.0
+    },
+    "Sales": {
+      "mean": 1815.033,
+      "median": 453.99,
+      "std": 3715.2694,
+      "p05": 33.101,
+      "p95": 8186.12
+    },
+    "Discount": {
+      "mean": 0.0498,
+      "median": 0.05,
+      "std": 0.0316,
+      "p05": 0.0,
+      "p95": 0.1
+    },
+    "Unit Price": {
+      "mean": 90.9663,
+      "median": 20.99,
+      "std": 301.5433,
+      "p05": 2.88,
+      "p95": 320.98
+    },
+    "Shipping Cost": {
+      "mean": 12.9449,
+      "median": 6.13,
+      "std": 17.614,
+      "p05": 0.83,
+      "p95": 56.14
+    },
+    "Product Base Margin": {
+      "mean": 0.5116,
+      "median": 0.52,
+      "std": 0.1354,
+      "p05": 0.36,
+      "p95": 0.78
+    },
+    "Shipping Delay": {
+      "mean": 2.0411,
+      "median": 2.0,
+      "std": 2.5258,
+      "p05": 0.0,
+      "p95": 7.0
+    },
+    "Revenue Per Unit": {
+      "mean": 88.5402,
+      "median": 21.49,
+      "std": 297.3389,
+      "p05": 2.9132,
+      "p95": 320.6466
+    },
+    "Shipping Cost Ratio": {
+      "mean": 0.0332,
+      "median": 0.0131,
+      "std": 0.0643,
+      "p05": 0.0015,
+      "p95": 0.1359
+    },
+    "Discount Value": {
+      "mean": 87.06,
+      "median": 16.3256,
+      "std": 199.7509,
+      "p05": 0.0,
+      "p95": 432.4951
+    },
+    "Order Month": {
+      "mean": 6.5575,
+      "median": 7.0,
+      "std": 3.4346,
+      "p05": 1.0,
+      "p95": 12.0
+    }
+  },
+  "categorical": {
+    "Order Priority": {
+      "Not Specified": 20.6,
+      "High": 20.46,
+      "Low": 20.36,
+      "Medium": 19.33,
+      "Critical": 19.25
+    },
+    "Ship Mode": {
+      "Regular Air": 74.4,
+      "Delivery Truck": 13.81,
+      "Express Air": 11.79
+    },
+    "Region": {
+      "West": 23.6,
+      "Ontario": 22.41,
+      "Prarie": 19.79,
+      "Atlantic": 13.04,
+      "Quebec": 9.66,
+      "Yukon": 6.17,
+      "Northwest Territories": 4.54,
+      "Nunavut": 0.79
+    },
+    "Customer Segment": {
+      "Corporate": 36.67,
+      "Home Office": 24.33,
+      "Small Business": 20.12,
+      "Consumer": 18.87
+    },
+    "Product Category": {
+      "Office Supplies": 55.21,
+      "Technology": 24.21,
+      "Furniture": 20.58
+    },
+    "Product Sub-Category": {
+      "Paper": 14.8,
+      "Binders and Binder Accessories": 11.11,
+      "Telephones and Communication": 10.54,
+      "Office Furnishings": 9.27,
+      "Computer Peripherals": 8.69,
+      "Pens & Art Supplies": 7.66,
+      "Storage & Organization": 6.49,
+      "Appliances": 4.68,
+      "Chairs & Chairmats": 4.64,
+      "Tables": 4.52,
+      "Office Machines": 4.17,
+      "Labels": 3.35,
+      "Envelopes": 3.27,
+      "Bookcases": 2.14,
+      "Rubber Bands": 2.04,
+      "Scissors, Rulers and Trimmers": 1.79,
+      "Copiers and Fax": 0.81
+    },
+    "Product Container": {
+      "Small Box": 52.07,
+      "Wrap Bag": 14.01,
+      "Small Pack": 11.61,
+      "Jumbo Drum": 7.44,
+      "Jumbo Box": 6.51,
+      "Large Box": 4.39,
+      "Medium Box": 3.97
+    }
+  }
+}
